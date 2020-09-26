@@ -18,7 +18,7 @@ step 5: type g++ reversesearch.cpp
 step 6: type .\a.exe.
 
 #FRONTEND:-
-In this we have using HTML ,CSS,BOOTSTRAP.
+In this we have using #HTML ,#CSS,#BOOTSTRAP.
 
 
 
