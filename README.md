@@ -17,7 +17,8 @@ step 4: type g++ findword.cpp
 step 5: type g++ reversesearch.cpp
 step 6: type .\a.exe.
 
-
+#FRONTEND:-
+In this we have using HTML ,CSS,BOOTSTRAP.
 
 
 
